@@ -15,3 +15,11 @@ title
     - third
 - two
 - three
+
+## dummy
+
+- dummy image
+<br>![%dummyImg%](dummy.png)
+    
+    
+<eof>
